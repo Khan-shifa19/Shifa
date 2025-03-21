@@ -1,4 +1,4 @@
-name: "Shifafile IAC"
+name: "Shifa IAC"
 on:
   push:
     branches:
